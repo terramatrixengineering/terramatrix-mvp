@@ -25,7 +25,7 @@ export default function Home() {
             color: "#2E3A59",
           }}
         >
-          TerraMatrix Academy MVP
+          TerraMatrix Academy
         </h1>
 
         <p
